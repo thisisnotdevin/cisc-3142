@@ -26,3 +26,12 @@ Can be accessed anywhere
 ### Constructor Inheritance 
 ![image](https://user-images.githubusercontent.com/66978846/167687966-de9631bd-6974-4cb6-958f-15ebc17f669f.png)
 ![image](https://user-images.githubusercontent.com/66978846/167688018-0ce90583-f34e-48ac-987a-d3f2208cd6d0.png)
+
+an example would be 
+
+A(p1,p2)
+
+B(name)
+
+P(int p1, int p2, string name) : A(p1,p2), B(name)
+
